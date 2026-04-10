@@ -1,10 +1,5 @@
 /* latin-ext */
-body {
-  background: red !important;
-}
-table {
-  background: transparent !important;
-}
+
 @font-face {
   font-family: 'Lato';
   font-style: italic;
