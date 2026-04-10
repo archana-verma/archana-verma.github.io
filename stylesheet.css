@@ -1,4 +1,7 @@
 /* latin-ext */
+body {
+  background: red !important;
+}
 @font-face {
   font-family: 'Lato';
   font-style: italic;
@@ -135,6 +138,7 @@ span.highlight {
 }
 
 .colored-box {
+    background-color: #fff6cc;   
     color: black;
     padding: 20px;
     display: inline-block;
