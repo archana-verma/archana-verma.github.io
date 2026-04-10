@@ -1,6 +1,6 @@
 /* latin-ext */
 body {
-  background-color: #fff6cc;
+  background-color: #fff6cc !important; 
 }
 @font-face {
   font-family: 'Lato';
