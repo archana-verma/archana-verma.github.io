@@ -153,3 +153,10 @@ ol li {
   display: list-item !important;
   margin-bottom: 28px;
 }
+b, strong {
+  font-weight: 700;
+}
+
+i, em {
+  font-style: italic;
+}
