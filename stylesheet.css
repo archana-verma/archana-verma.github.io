@@ -143,3 +143,13 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+ol {
+  padding-left: 40px;
+  margin-left: 0;
+}
+
+ol li {
+  list-style-type: decimal !important;
+  display: list-item !important;
+  margin-bottom: 28px;
+}
